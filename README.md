@@ -59,10 +59,6 @@ See `.env.example` for the rest.
 
 Next.js (App Router) + TypeScript, Tailwind CSS, zod, react-markdown.
 
-## Credits
-
-Interface layout inspired by [hyamero/chatbot](https://github.com/hyamero/chatbot).
-
 ## License
 
 [MIT](./LICENSE) © 2026 ritsuka
