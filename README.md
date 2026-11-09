@@ -36,6 +36,8 @@
 Requires Node.js 20+.
 
 ```bash
+git clone https://github.com/ritsukasu/ingon.git
+cd ingon
 npm install
 cp .env.example .env.local   # set INGON_API_KEY
 npm run dev
